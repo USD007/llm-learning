@@ -1,0 +1,133 @@
+{
+    "public_identifier": "ujwal-d-72a66b244",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/ujwal-d-72a66b244/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240911%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240911T044703Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=e67eac41ecf6f2dc6b00a2683a89d9be4b98a4b47cce56be3489d570675d8b06",
+    "background_cover_image_url": null,
+    "first_name": "Ujwal",
+    "last_name": "D",
+    "full_name": "Ujwal D",
+    "follower_count": 249,
+    "occupation": "Associate Software Engineer at Bosch Global Software Technologies",
+    "headline": "software engineer",
+    "summary": null,
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Bosch Global Software Technologies",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/bosch-global-software-technologies",
+            "company_facebook_profile_url": null,
+            "title": "Associate Software Engineer",
+            "description": null,
+            "location": "Bengaluru, Karnataka, India",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/bosch-global-software-technologies/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240911%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240911T044703Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8bd62ec4c27cc6470ea10b8d0cebf7baab967844290181798b4d2cd457a58b2a"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 8,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 7,
+                "year": 2023
+            },
+            "field_of_study": "Computer Science",
+            "degree_name": "B.E",
+            "school": "Bangalore Institute of Technology",
+            "school_linkedin_profile_url": "https://www.linkedin.com/company/15138868/",
+            "school_facebook_profile_url": null,
+            "description": "Skills: C (Programming Language) · Computer Science · Engineering · Object-Oriented Programming (OOP)",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/bitsince1979/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20240911%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20240911T044703Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=c8bc1325bcd49fdac0233e8b8a033d8b23d0ab33e7a9e5a621edb88315e24d27",
+            "grade": "8.63",
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "accomplishment_organisations": [],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [],
+    "connections": 244,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/yukta-agarwalla?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADtnJyEB48ZWoomWfUtyxUlZccL98R5VTsU",
+            "name": "Yukta Agarwal",
+            "summary": "SQL | PowerBI | Data Analysis | Business Analysis Enthusiastic",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aarya-mishra-68685a297?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEfZ7EYBG5-cDzk2P07ssyf4_ScieIMinYk",
+            "name": "Aarya Mishra",
+            "summary": "Student at Bangalore Institute of Technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/smriti-verma-8b4b2022a?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADl5iwgBmsYrL_qiX3J5OD2s6tn4pIx9ihc",
+            "name": "Smriti Verma",
+            "summary": "SDE intern @PhonePe | Full Stack Developer | MERN | 500+DSA @GFG&Leetcode | Student at Bangalore Institute Of Technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/manohar-raj-7392a3211?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADWdKl0BmyzZJR7tmnBi1GCF-HmoTjvTPTk",
+            "name": "Manohar Raj",
+            "summary": "--",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/alka-rani-a57597292?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAEbr6iMBHNl_FWBHZIKhPBam7yN80QDM_DU",
+            "name": "Alka Rani",
+            "summary": "Placement coordinator@ Bangalore Institute of Technology",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/vedant-badiger-b37522191?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAC0bAdsB33olKr3YmiOq0oJPC3QeQpcJc2Q",
+            "name": "VEDANT BADIGER",
+            "summary": "Product Development Engineer @ Comviva| Ex Software Development Intern @ Indian Institute of Astrophysics| Technical Team of Google Development Student Club BIT as IoT & Robotics Lead | Cse @ BIT",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/harshith-gowda-a-6419a3190?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAACz_LdEBETciJbCxSRJo1A9NJLR5YyIUzFI",
+            "name": "Harshith Gowda A",
+            "summary": "Student at Bangalore Institute of Technology (BIT)",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/priyanshee-panjwani?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADG0ECQBhy6Cgj0Lg2vbQNrTXf1RDhIvboc",
+            "name": "Priyanshee Panjwani",
+            "summary": "Machine Learning Associate @Sprinklr | ex Technical Development Engineer @Mediakind | ex Technical Intern @Elluican | 5⭐ on Hackerrank SQL",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/siddharth-mishra-9159a01a9?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADC76yEB1eFEEp_nYiP5XsaJvS7vc8_FImA",
+            "name": "Siddharth Mishra",
+            "summary": "Software engineer trainee at LSEG",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/harshith-a-817924209?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAADFl65gBoCpYquXOPk7eOefQyEF_s4Veqxo",
+            "name": "Harshith A",
+            "summary": "Student at Bangalore Institute of Technology",
+            "location": null
+        }
+    ],
+    "groups": [],
+    "personal_emails": [],
+    "industry": "Information Technology & Services",
+    "interests": []
+}
